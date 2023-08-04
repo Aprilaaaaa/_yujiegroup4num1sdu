@@ -8,14 +8,14 @@
     3.Python3.8和3.10安装路径不同
 
 ##
-    ✅表示已完成
+    ✅表示已完成，本人个人共完成17个项目
     ✅*Project1: implement the naïve birthday attack of reduced SM3*
     ✅*Project2: implement the Rho method of reduced SM3
     ✅*Project3: implement length extension attack for SM3, SHA256, etc.
     ✅*Project4: do your best to optimize SM3 implementation (software)
     ✅*Project5: Impl Merkle Tree following RFC6962
-    *Project6: impl this protocol with actual network communication
-    *Project7: Try to Implement this scheme
+    ✅*Project6: impl this protocol with actual network communication
+    ✅*Project7: Try to Implement this scheme
     ✅*Project8: AES impl with ARM instruction
     ✅*Project9: AES / SM4 software implementation
     *Project10: report on the application of this deduce technique in Ethereum with ECDSA
